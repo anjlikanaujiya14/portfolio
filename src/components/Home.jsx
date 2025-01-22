@@ -69,7 +69,7 @@ function Home() {
           <div className="md:w-1/2 md:ml-48 md:mt-20 mt-8 order-1 flex justify-center items-center">
             <div className="w-[450px] h-[450px] rounded-full overflow-hidden border-[4px] border-gray-300 shadow-md">
               <img
-                src="../../public/homepic.png"
+                src="/homepic.png"
                 className="w-full h-full object-cover"
                 alt="profile"
               />

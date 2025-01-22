@@ -12,7 +12,7 @@ function Portfolio() {
       <div className="flex flex-col md:flex-row justify-between ">
         <div className="my-5 md:w-[380px] md:h-[270px] border-2 rounded-lg shadow-lg p-4 cursor-pointer hover:scale-110 duration-300 flex flex-col items-center">
           <img
-            src="../../public/image.png"
+            src="/image.png"
             className="h-[100px] w-[100px] p-2 rounded-full border-2 mb-4"
             alt="Project Thumbnail"
           />
@@ -50,7 +50,7 @@ function Portfolio() {
           <div>
             React.js
             <img
-              src="../../public/react.png"
+              src="/react.png"
               className=" w-[60px] h-[60px]"
               alt=""
             />
